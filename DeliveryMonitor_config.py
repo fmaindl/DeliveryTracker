@@ -1,0 +1,10 @@
+URL_WEB_SERVICES = 'insert here'
+ENCODED_BASIC_AUTH = 'Basic insert here'
+XML_WRAPPER = 'optional'
+LOG_PATH = r'insert here'
+MESSAGE = ''
+FROM_EMAIL_USER = ''
+TO_EMAIL_USER = ''
+PORT = 
+SMTP_HOST = ''
+PASSWORD = '*'
